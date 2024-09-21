@@ -62,7 +62,7 @@ Quiz 6의 답을 Information state의 정의
 $$\mathbb{P}[S_{t+1}|S_t]=\mathbb{P}[S_{t+1}|S_1,\ldots,S_t]$$
 를 이용하여 보이시오. (힌트: 전확률의 공식을 사용하시오.)
 
-Proof your answer to Quiz 6 using the definition of an information state
+Prove your answer to Quiz 6 using the definition of an information state
 $$\mathbb{P}[S_{t+1}|S_t]=\mathbb{P}[S_{t+1}|S_1,\ldots,S_t].$$
 (Hint: Use the total probability formula).
 ## Challange 2
