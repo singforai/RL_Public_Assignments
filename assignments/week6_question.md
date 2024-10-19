@@ -147,9 +147,9 @@ GLIE 조건은 Sarsa의 최적 행동 가치 함수로의 수렴을 보장한다
 The GLIE condition guarantees convergence to Sarsa's optimal action value function. (&nbsp;&nbsp;&nbsp;)
 
 ## Q. 30
-Off-policy TD는 off-policy MC보다 Importance sampling ratio가 크다. 
+일반적으로, Off-policy TD는 off-policy MC보다 Importance sampling ratio가 크다. 
 
-Off-policy TDs have a larger Importance sampling ratio than off-policy MCs. (&nbsp;&nbsp;&nbsp;)
+In general, off-policy TDs have a larger Importance sampling ratio than off-policy MCs. (&nbsp;&nbsp;&nbsp;)
 
 # Challanges
 아래 문제는 관심 있는 사람을 위한 심화 문제입니다. 풀지 않아도 불이익은 없습니다.
